@@ -44,7 +44,7 @@ if st.button ('Predict'):
     transformed_sms = transform_text(input_sms)
 
     # 2. Vectorization
-    vector_input = tfidf.transform(['transformed_sms'])
+    vector_input = tfidf.transform([transformed_sms])
 
     # 3. prediction
     result = model.predict (vector_input) [0]
