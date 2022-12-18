@@ -4,6 +4,8 @@ As we are in 2021, you must know what is an e-mail and most probably you have ei
 
 Despite having lot of chat apps like WhatsApp, Facebook messenger, snapchat etc, e-mail has remained a central part of daily digital life. In 2024, the number of global e-mail users is set to grow to 4.48 billion users, up from 3.8 billion in 2018. In terms of the most popular e-mail clients, Apple and Google are in a constant battle for the top spot.
 
+The main idea of spam is to make a profit and it is very cheap to send, the cost are insignificant as compared to conventional marketing techniques, so marketing by spam is very cost-effective, despite very low rates of purchases in response. Junk emails sent to penetrate user inboxes with messages intended to promote products and services in order to turn a profit.
+
 But now a days, spam is progressively being viewed as a more severe messaging threat, as it is coming to be used to deliver worms, viruses, and Trojans as well as rooks of more directly financial nature. Spammers often trick even the sharpest of e-mail users into opening these messages.
 
 Not only this there are variety of problems caused by spam such as,
