@@ -24,3 +24,6 @@ Used NLP explicitely in this project as this is textual classification data.
 Data cleaning was complex task in this project and used NLP concepts to carry out this project
 
 You must have heard about spam email but in case you didn’t, Spam emails are nothing but junk email, an email sent without explicit consent from the recipient.
+
+The main idea of spam is to make a profit and it is very cheap to send, the cost are insignificant as compared to conventional marketing techniques, so marketing by spam is very cost-effective, despite very low rates of purchases in response. Junk emails sent to penetrate user inboxes with messages intended to promote products and services in order to turn a profit.
+
