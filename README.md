@@ -22,3 +22,5 @@ This is the Spam detection classifier detecting the sms or email is spam or ham 
 The dataset collected from the kaggle.
 Used NLP explicitely in this project as this is textual classification data.
 Data cleaning was complex task in this project and used NLP concepts to carry out this project
+
+You must have heard about spam email but in case you didn’t, Spam emails are nothing but junk email, an email sent without explicit consent from the recipient.
