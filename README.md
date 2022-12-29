@@ -34,5 +34,5 @@ Whereas Unsupervised learning is the training of machine using information that 
 There are two types of training in neural network.
 
 1.   Supervised: Here, the network is given a set of inputs and matching output patterns, known as training dataset, to train the network.  
-
+2.   Unsupervised: In this instance, the network trains itself by producing groups of patterns. There is no earlier set of training data given to the system. 
 
