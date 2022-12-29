@@ -31,6 +31,8 @@ To effectively handle the threat posed by email spams, leading email providers s
 
 Whereas Unsupervised learning is the training of machine using information that is neither classified nor labelled and allowing the algorithm to act on that information without guidance. Here the task of machine is to group unsorted information according to similarities, patterns and differences without any prior training of data.
 
+There are two types of training in neural network.
 
+1.   Supervised: Here, the network is given a set of inputs and matching output patterns, known as training dataset, to train the network.  
 
 
